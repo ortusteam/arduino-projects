@@ -45,6 +45,12 @@ public:
         direction2Pin = in2;
     }
 
+    void setPins( ) {
+        pinMode( speedPin, OUTPUT );
+        pinMode( direction1Pin, OUTPUT );
+        pinMode( direction2Pin, OUTPUT );
+    }
+
     direction getDirection( ) {
         return direction;
     }
