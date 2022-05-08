@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For MotorDriver
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+Motor KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+setPins KEYWORD2
+getDirection KEYWORD2
+getSpeed KEYWORD2
+getState KEYWORD2
+setDirection KEYWORD2
+setSpeed KEYWORD2
+run KEYWORD2
+stop KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
+FORWARD LITERAL1    
+STOP LITERAL1   
+BACKWARD LITERAL1
